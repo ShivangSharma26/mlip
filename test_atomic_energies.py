@@ -1,4 +1,5 @@
 import jax.numpy as jnp
+#for deepchem 
 
 from mlip.data.dataset_info import DatasetInfo
 from mlip.models.atomic_energies import get_atomic_energies
